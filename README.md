@@ -13,3 +13,5 @@ It focuses on:
 - Utility-first styling
 - Reusable UI components
 - Clean and minimal design patterns
+
+---
