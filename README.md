@@ -6,3 +6,10 @@ This repository contains commonly used patterns like buttons, cards, layouts, an
 ---
 
 ## 📌 About the Project
+
+This project is a curated set of lightweight Tailwind CSS examples designed to help developers quickly build modern UIs without writing custom CSS.
+
+It focuses on:
+- Utility-first styling
+- Reusable UI components
+- Clean and minimal design patterns
