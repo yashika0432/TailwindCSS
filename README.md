@@ -37,3 +37,11 @@ It focuses on:
    ```git clone https://github.com/yashika0432/TailwindCSS```
 2. Open the project
    ```cd TailwindCSS```
+
+---
+
+## 🎯 Use Cases
+- Quick UI prototyping
+- Learning Tailwind CSS
+- Building reusable component libraries
+- Speeding up frontend development
