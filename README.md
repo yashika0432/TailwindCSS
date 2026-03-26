@@ -24,3 +24,5 @@ It focuses on:
 - 🎨 Clean and modern styling
 
 ---
+
+## 🛠️ Tech Stack
