@@ -34,4 +34,6 @@ It focuses on:
 
 ## 🚀 Getting Started
 1. Clone the repository
-   ```git clone https://github.com/yourusername/tailwind-snippets.git```
+   ```git clone https://github.com/yashika0432/TailwindCSS```
+2. Open the project
+   ```cd tailwind-snippets```
