@@ -15,3 +15,5 @@ It focuses on:
 - Clean and minimal design patterns
 
 ---
+
+## ✨ Features
