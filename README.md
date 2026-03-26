@@ -26,3 +26,6 @@ It focuses on:
 ---
 
 ## 🛠️ Tech Stack
+- Tailwind CSS
+- HTML / React (optional)
+- JavaScript (ES6+)
