@@ -22,3 +22,5 @@ It focuses on:
 - 🧩 Reusable UI patterns
 - 📱 Responsive design snippets
 - 🎨 Clean and modern styling
+
+---
