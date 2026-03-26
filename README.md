@@ -17,3 +17,8 @@ It focuses on:
 ---
 
 ## ✨ Features
+- ⚡ Ready-to-use Tailwind components
+- 🎯 Beginner-friendly examples
+- 🧩 Reusable UI patterns
+- 📱 Responsive design snippets
+- 🎨 Clean and modern styling
