@@ -29,3 +29,9 @@ It focuses on:
 - Tailwind CSS
 - HTML / React (optional)
 - JavaScript (ES6+)
+
+---
+
+## 🚀 Getting Started
+1. Clone the repository
+   ```git clone https://github.com/yourusername/tailwind-snippets.git```
